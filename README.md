@@ -4,7 +4,7 @@
 
 ACUTE is specifically designed for the Cloud Spot VM environment. ACUTE leverages the memory of a reliable remote VM as a checkpointing area, enabling muli-level checkpointing.
 
-> **Note:** This GitHub repository is created for the submission purpose as a part of the IEEE Access 2024 research paper.
+> **Note:** This GitHub repository is created for the sharing purpose as a part of the IEEE Access 2024 research paper: ***Optimizing Multi-level Checkpointing for Distributed Deep Learning Workloads on Cloud Spot VM Clusters***.
 
 ## Key Features
 
